@@ -1,1 +1,1 @@
-# guess the number game
+# guess the word game code
